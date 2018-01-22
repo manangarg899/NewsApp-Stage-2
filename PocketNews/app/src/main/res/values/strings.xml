@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pocket News</string>
+    <string name="News_section_World">world</string>
+    <string name="List_preference_key">News choice</string>
+    <string name="EditPrefDefaultValue">10</string>
+    <string name="EditPrefKey">NewsSize</string>
+    <string name="EditPrefTitle">No Of Pages</string>
+    <string name="NoInternet">No Internet Connection :(</string>
+    <string name="NoHeadlineFound">No HeadLine Found</string>
+
+</resources>
